@@ -6,7 +6,7 @@
 * Bootstrap
 * jQuery
 ### Output
-![alt text](https://github.com/Mfarzana/bricks-walls/blob/master/img/screen2.jpg)
+![Output](https://github.com/Mfarzana/bricks-walls/blob/master/img/screen2.jpg)
 
 ### Impovement 
 Once drop square then It cannot be dragging again.
