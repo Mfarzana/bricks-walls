@@ -1,0 +1,10 @@
+.drag {
+    height: 20px;
+    width: 70px;
+    position:absolute;
+
+}
+.bricks,.walls{  
+    height: 400px;
+    width: 200px;
+}
